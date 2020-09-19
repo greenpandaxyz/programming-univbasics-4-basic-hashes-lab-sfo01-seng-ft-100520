@@ -3,7 +3,11 @@ newer_hash = hash.new
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+chocolate = {
+  :white => "Kit-Kat",
+  :dark => "Hu Chocolate",
+  :milk => "Kinder"
+}
 end
 
 def pioneer
