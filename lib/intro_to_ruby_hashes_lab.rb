@@ -2,10 +2,8 @@ def new_hash
 Hash.new
 end
 def my_hash
-chocolate = {
-  :white => "Kit-Kat",
-  :dark => "Hu Chocolate",
-  :milk => "Kinder"
+{
+  :chocolate_white => "Kit-Kat",
 }
 end
 
