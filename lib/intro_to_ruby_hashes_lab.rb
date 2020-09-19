@@ -11,5 +11,5 @@ end
 
 
 def id_hash_generator(number)
-param ={ :id => "number"}
+{id: number}
 end
