@@ -2,9 +2,7 @@ def new_hash
 Hash.new
 end
 def my_hash
-{
-  :chocolate_white => "Kit-Kat",
-}
+{:chocolate_white => "Kit-Kat"}
 end
 
 def pioneer
