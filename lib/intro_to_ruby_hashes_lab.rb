@@ -1,7 +1,7 @@
 def new_hash
 new_hash = hash.new
-end
 new_hash
+end
 def my_hash
 chocolate = {
   :white => "Kit-Kat",
